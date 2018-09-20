@@ -8,5 +8,10 @@ namespace POO
 {
     class MonstreDifficile
     {
+        public bool estVivant { get { return true; } }
+        public void Attaque()
+        {
+
+        }
     }
 }

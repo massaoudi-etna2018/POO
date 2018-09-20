@@ -8,5 +8,9 @@ namespace POO
 {
     class De
     {
+        public int LanceLeDe(int nbrDe)
+        {
+            return nbrDe;
+        }
     }
 }
